@@ -23,4 +23,9 @@ PIDQA is a novel question–answering dataset built for querying Piping and Inst
 |:--:|
 | Symbols |
 
+| <img src="https://github.com/mgupta70/PID-KnowledgeGraph-demo/blob/main/media/one_shot_symbols.png" width="400"/> |
+|:--:|
+| Symbols |
+
+
 
