@@ -1,6 +1,6 @@
 # PIDQA
 
-PIDQA is a novel question–answering dataset built for querying Piping and Instrumentation Diagrams (P&IDs). It contains 64,000 QA pairs spanning 500 P&ID sheets from the [Dataset-P&ID](https://drive.google.com/drive/u/1/folders/1gMm_YKBZtXB3qUKUpI-LF1HE_MgzwfeR) collection (Click [here](https://arxiv.org/pdf/2109.03794) for the source paper). Each question is accompanied by a syntactically correct Cypher query for graph-based reasoning.
+PIDQA is a novel question–answering dataset built for querying Piping and Instrumentation Diagrams (P&IDs). It contains 64,000 QA pairs spanning 500 P&ID sheets from the [Dataset-P&ID](https://drive.google.com/drive/u/1/folders/1gMm_YKBZtXB3qUKUpI-LF1HE_MgzwfeR) collection (Click [here](https://arxiv.org/pdf/2109.03794) for the source paper of Dataset-P&ID). Each question is accompanied by a syntactically correct Cypher query for graph-based reasoning.
 
 ### 📊 Dataset Statistics
 
