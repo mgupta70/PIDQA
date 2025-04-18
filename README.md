@@ -20,6 +20,8 @@ PIDQA is a novel question–answering dataset built for querying Piping and Inst
 |:--:|
 | Symbols |
 
+2. Sample
+https://github.com/mgupta70/PID-KnowledgeGraph-demo/blob/main/media/1_Pid_question.png
 
 ### Demo
 Click [here](https://pid-knowledgegraph-demo.streamlit.app/) to check out a minimalistic demo where you can ask these 4 types of questions to a P&ID or visit: https://pid-knowledgegraph-demo.streamlit.app/
