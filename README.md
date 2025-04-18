@@ -18,12 +18,8 @@ PIDQA is a novel question–answering dataset built for querying Piping and Inst
 
 ### 🔍 Key Features:
 1. Symbols are named as numbers ranging from 1 to 32
-2. ![Symbols](https://github.com/mgupta70/PID-KnowledgeGraph-demo/blob/main/media/one_shot_symbols.png)
-| ![Symbols](https://github.com/mgupta70/PID-KnowledgeGraph-demo/blob/main/media/one_shot_symbols.png) |
-|:--:|
-| Symbols |
 
-| <img src="https://github.com/mgupta70/PID-KnowledgeGraph-demo/blob/main/media/one_shot_symbols.png" width="400"/> |
+| <img src="https://github.com/mgupta70/PID-KnowledgeGraph-demo/blob/main/media/one_shot_symbols.png" width="500"/> |
 |:--:|
 | Symbols |
 
